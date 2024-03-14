@@ -1,11 +1,9 @@
-Class 4 - API Protection
-########################
+Class 1 - API Security - Shift to the left
+##########################################
 
 Lab Maintainers:
 
   Matthieu Dierick <m.dierick@f5.com>
-
-  Sorin Boiangiu <s.boiangiu@f5.com>   
 
 |
 
